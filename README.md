@@ -16,7 +16,6 @@ The SolanaHub Noop Pinocchio is a Rust-based Solana program designed to demonstr
     - Implements the noop instruction.
 
 - **[tests/](tests/)**
-  - Includes unit tests for the program.
   - Uses `litesvm` for lightweight Solana testing.
 
 ## Getting Started
