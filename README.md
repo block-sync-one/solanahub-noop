@@ -35,7 +35,7 @@ cargo build-sbf
 After building, retrieve the program's public key and update the `pinocchio_pubkey::declare_id!` macro in the code:
 
 ```bash
-solana address -k target/deploy/noop_solanahub-keypair.json
+solana address -k target/deploy/solanahub_noop-keypair.json
 ```
 
 ## License
