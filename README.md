@@ -1,8 +1,8 @@
-# Solana Pinocchio Starter
+# SolanaHub Noop Pinocchio
 
 ## Overview
 
-The Solana Pinocchio Starter is a Rust-based Solana program designed to demonstrate a simple "noop" (no operation) instruction. This program is built with performance optimizations in mind, such as using `no_std` to avoid the standard library and disabling heap allocations.
+The SolanaHub Noop Pinocchio is a Rust-based Solana program designed to demonstrate a simple "noop" (no operation) instruction. This program is built with performance optimizations in mind, such as using `no_std` to avoid the standard library and disabling heap allocations.
 
 ## Features
 
